@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a software developer who worked at Unity 2D game development for the last 2 years. However i have a huge interest about data analysis and data science. I have wanted to become a data scientist since college. I have been spending most of my time practicing in algorithms, data structures, python artificial intelligence principles and python libraries. 
+
 <!--
 **programmewithkarsan/programmewithkarsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
