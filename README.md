@@ -1,6 +1,27 @@
-### Hi there 👋
 
-I'm a software developer who worked at Unity 2D game development for the last 2 years. However i have a huge interest about data analysis and data science. I have wanted to become a data scientist since college. I have been spending most of my time practicing in algorithms, data structures, Python artificial intelligence principles and Python libraries. So I ❤️ Python 😊😊😊
+# ProgrammeWithKarsan - Who Am I 
+
+Data Science | Image Processing |For Fun | Commerical Usage
+:------------ | :-------------| :-------------| :-------------
+:white_check_mark: Matplotlib | :white_check_mark: Matplotlib|  :white_check_mark:Turtle | :white_check_mark: C#
+:white_check_mark: Numpy | :white_check_mark:Numpy | :white_check_mark:Pygame | :white_check_mark: Unity
+:white_check_mark:Pandas | :x:Scipy | |
+:white_check_mark:Scikit-learn | :x:Yolov? (I didn't decide which version 🤦🏻‍♀️)|  | 
+:white_check_mark:Seaborn |:x: Scikit-Image |  |
+📖:clock9:Pytorch |:x: PIL/Pillow |  | 
+📖:clock9:Keras |:x: PIL/Pillow |  | 
+📖:clock9:Tenserflow |:x: Mahotas |  | 
+
+
+
+
+
+
+I'm a softoware developer with 4+ years Python experience. Also i develop games with Unity and C# more than 2 years. 
+I'm currently develop my skills on data wrangling and data visualization.
+
+<img src="https://github-readme-stats.vercel.app/api?username=programmewithkarsan&&show_icons=true&title_color=#263238&icon_color=bb2acf&text_color=#263238&bg_color=#CFD8DC">
+
 
 <!--
 **programmewithkarsan/programmewithkarsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
