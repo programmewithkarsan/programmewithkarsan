@@ -8,17 +8,15 @@ Data Science | Image Processing |For Fun | Commerical Usage
 :white_check_mark:Pandas | :x:Scipy | |
 :white_check_mark:Scikit-learn | :x:Yolov? (I didn't decide which version 🤦🏻‍♀️)|  | 
 :white_check_mark:Seaborn |:x: Scikit-Image |  |
-📖:clock9:Pytorch |:x: PIL/Pillow |  | 
+📖:clock9:Pytorch |:x: PIL/Pillow | | 
 📖:clock9:Keras |:x: PIL/Pillow |  | 
-📖:clock9:Tenserflow |:x: Mahotas |  | 
+📖:clock9:Tenserflow |:x: Mahotas |  |
+| |:white_check_mark: OpenCV |  | 
 
-
-
-
-
-
+___
 I'm a softoware developer with 4+ years Python experience. Also i develop games with Unity and C# more than 2 years. 
 I'm currently develop my skills on data wrangling and data visualization.
+___
 
 <img src="https://github-readme-stats.vercel.app/api?username=programmewithkarsan&&show_icons=true&title_color=#263238&icon_color=bb2acf&text_color=#263238&bg_color=#CFD8DC">
 
