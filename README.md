@@ -9,7 +9,7 @@ Data Science | Image Processing |For Fun | Commerical Usage
 :white_check_mark:Scikit-learn | :x:Yolov? (I didn't decide which version 🤦🏻‍♀️)|  | 
 :white_check_mark:Seaborn |:x: Scikit-Image |  |
 📖:clock9:Pytorch |:x: PIL/Pillow | | 
-📖:clock9:Keras |:x: PIL/Pillow |  | 
+📖:clock9:Keras |:x: Pgmagick |  | 
 📖:clock9:Tenserflow |:x: Mahotas |  |
 :x: SciPy |:x: SciPy |  | 
 
