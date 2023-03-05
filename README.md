@@ -1,7 +1,7 @@
 
 # ProgrammeWithKarsan - Who Am I 
 
-Data Science | Image Processing |For Fun | Commerical Usage
+Data Science | Image Processing |For Fun | Commercial Usage
 :------------ | :-------------| :-------------| :-------------
 :white_check_mark: Matplotlib | :white_check_mark: Matplotlib|  :white_check_mark:Turtle | :white_check_mark: C#
 :white_check_mark: Numpy | :white_check_mark:Numpy | :white_check_mark:Pygame | :white_check_mark: Unity
