@@ -1,17 +1,7 @@
 
 # ProgrammeWithKarsan - Who Am I 
 
-Data Science | Image Processing |For Fun | Commercial Usage
-:------------ | :-------------| :-------------| :-------------
-:white_check_mark: Matplotlib | :white_check_mark: Matplotlib|  :white_check_mark:Turtle | :white_check_mark: C#
-:white_check_mark: Numpy | :white_check_mark:Numpy | :white_check_mark:Pygame | :white_check_mark: Unity
-:white_check_mark:Pandas | ✅ OpenCV | |
-:white_check_mark:Scikit-learn | :x:Yolov? (I didn't decide which version 🤦🏻‍♀️)|  | 
-:white_check_mark:Seaborn |:x: Scikit-Image |  |
-📖:clock9:Pytorch |:x: PIL/Pillow | | 
-📖:clock9:Keras |:x: Pgmagick |  | 
-📖:clock9:Tenserflow |:x: Mahotas |  |
-:x: SciPy |:x: SciPy |  | 
+
 
 ___
 I'm a softoware developer with 4+ years Python experience. Also i develop games with Unity and C# more than 2 years. 
@@ -34,4 +24,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Data Science | Image Processing |For Fun | Commercial Usage
+:------------ | :-------------| :-------------| :-------------
+:white_check_mark: Matplotlib | :white_check_mark: Matplotlib|  :white_check_mark:Turtle | :white_check_mark: C#
+:white_check_mark: Numpy | :white_check_mark:Numpy | :white_check_mark:Pygame | :white_check_mark: Unity
+:white_check_mark:Pandas | ✅ OpenCV | |
+:white_check_mark:Scikit-learn | :x:Yolov? (I didn't decide which version 🤦🏻‍♀️)|  | 
+:white_check_mark:Seaborn |:x: Scikit-Image |  |
+📖:clock9:Pytorch |:x: PIL/Pillow | | 
+📖:clock9:Keras |:x: Pgmagick |  | 
+📖:clock9:Tenserflow |:x: Mahotas |  |
+:x: SciPy |:x: SciPy |  | 
 -->
