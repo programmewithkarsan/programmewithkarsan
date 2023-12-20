@@ -4,8 +4,30 @@
 
 
 ___
-I'm a softoware developer with 4+ years Python experience. Also i develop games with Unity and C# more than 2 years. 
-I'm currently develop my skills on data wrangling and data visualization.
+## Hello World! 👋
+
+I'm Betül aka Karsan, a professional game developer with over 3 years of experience in Unity and C#. I specialize in creating captivating 2D games that bring joy and excitement to players.
+
+**Python Enthusiast 🐍**
+
+In addition to my game development journey, I've been immersed in the world of Python for nearly 7 years. While I may not use Python professionally, my passion for the language knows no bounds. I find immense joy in creating with Python, exploring its versatility, and tackling challenges with its expressive syntax.
+
+**Why Python?**
+
+Python's simplicity and readability have always resonated with me. Whether it's scripting small utilities, experimenting with machine learning, or simply enjoying the elegance of the language, Python has become my go-to companion in the world of programming.
+
+**Let's Connect!**
+
+I'm always open to collaboration, learning new things, and connecting with fellow developers. Whether it's Unity game development or Python projects, feel free to reach out and let's create something amazing together!
+
+**Current Focus:**
+
+- 🕹️ Game Development with Unity and C#
+- 🐍 Exploring Python's versatility
+- 🚀 Building and learning new things every day
+
+Join me on this exciting coding journey! 🚀
+
 ___
 
 <img src="https://github-readme-stats.vercel.app/api?username=programmewithkarsan&&show_icons=true&title_color=#263238&icon_color=bb2acf&text_color=#263238&bg_color=#CFD8DC">
